@@ -1,3 +1,2 @@
 poetry
-7zip
 Python3
