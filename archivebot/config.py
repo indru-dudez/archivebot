@@ -5,7 +5,7 @@ import toml
 
 default_config = {
     "telegram": {
-        "userbot": false,
+        "userbot": true,
         "api_key": "1484527342:AAEktw6k1lB4yyMpzuXAxtGRIiPrvhXBUGk",
         "phone_number": "your_phone_number (empty if not in userbot mode)",
         "app_api_id": 1555704,
