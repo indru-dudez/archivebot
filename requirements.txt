@@ -1,2 +1,9 @@
-poetry
+python
+cryptg
 telethon
+SQLAlchemy
+sqlalchemy-utils
+raven
+toml
+pytest-mock
+pytest
