@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "A telegram bot for backing up and collecting all kinds of media."
 authors = ["Arne Beer <contact@arne.beer>"]
 license = "MIT"
-repository = "https://github.com/nukesor/archivebot"
+repository = "https://github.com/indru-dudez/archivebot"
 
 [tool.poetry.dependencies]
 python = "^3.6, ^3.7"
