@@ -5,11 +5,11 @@ import toml
 
 default_config = {
     "telegram": {
-        "userbot": True,
-        "api_key": "your_telegram_api_key (empty if in userbot mode)",
+        "userbot": false,
+        "api_key": "1484527342:AAEktw6k1lB4yyMpzuXAxtGRIiPrvhXBUGk",
         "phone_number": "your_phone_number (empty if not in userbot mode)",
-        "app_api_id": 0,
-        "app_api_hash": "apihash",
+        "app_api_id": 1555704,
+        "app_api_hash": "f08030f122370b15dbeaefb39cb0f693",
     },
     "database": {"sql_uri": "sqlite:///archivebot.db",},
     "logging": {"sentry_enabled": False, "sentry_token": "",},
