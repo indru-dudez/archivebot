@@ -1,11 +1,11 @@
 [telegram]
 userbot = true
 # Get your telegram api-key from @botfather
-api_key = "your_telegram_api_key (empty if in userbot mode)"
+api_key = "1425278481:AAHTCRS9agrLu4-TX5w-ax_IZ7NTkFz7L7s"
 phone_number = "your_phone_number (empty if not in userbot mode)"
 # Get client api keys from https://my.telegram.org
-app_api_id = 0
-app_api_hash = "apihash"
+app_api_id = 1555704
+app_api_hash = "f08030f122370b15dbeaefb39cb0f693"
 
 [database]
 sql_uri = "sqlite:///archivebot.db"
