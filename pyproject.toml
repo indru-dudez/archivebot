@@ -7,4 +7,3 @@ toml
 pytest-mock
 pytest
 requires
-build-backend
