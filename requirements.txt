@@ -1,8 +1,11 @@
-cryptg
-telethon
-SQLAlchemy
-sqlalchemy-utils
-raven
-toml
-pytest-mock
-pytest
+python = "^3.6, ^3.7"
+cryptg = "^0.1.0.7"
+telethon = "^1.8.0"
+SQLAlchemy = "^1.3"
+sqlalchemy-utils = "^0.34"
+raven = "^6.10"
+toml = "^0.10"
+pytest-mock = "^1.10"
+pytest = "^4.0"
+poetry>=0.12"
+poetry.masonry.api
